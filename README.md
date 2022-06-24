@@ -1,5 +1,4 @@
-# Gait-analysis-of-SCI-patients
-# INTRODUCTION
+### INTRODUCTION
 ------------
 
 The goal of this project in the context of the course BIOENG-404 is to develop a deeper knowledge 
@@ -9,7 +8,7 @@ spinal cord injury. The datasets provided during the course contain kinematic an
 data. Some parameters were extracted to perform a Principal Component Analysis (PCA) to analyze the key
 differences between the different conditions.
 
-# REQUIREMENTS
+### REQUIREMENTS
 ------------
 
 This module requires the following modules:
@@ -22,12 +21,12 @@ This module requires the following modules:
 * sklearn
 * os
 
-# INSTRUCTIONS
+### INSTRUCTIONS
 ------------
 
 Make sure to have the libraries listed installed on your environment before running the notebook.
 
-# MEMBERS OF GROUP
+### MEMBERS OF GROUP
 ------------
 * Alexander Popescu 
 * Changling Li
